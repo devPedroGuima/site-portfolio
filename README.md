@@ -25,3 +25,9 @@ trabalhando com **Branches**
 >Este é um blockquote, usado para destacar uma área.
 >
 >Segunda area destacada
+
+***comando para limpar a tela do VSCode**
+
+```
+CLS
+```
