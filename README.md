@@ -26,10 +26,17 @@ trabalhando com **Branches**
 >
 >Segunda area destacada
 
-***comando para limpar a tela do VSCode**
+**comando para limpar a tela do VSCode**
 
 ```
 CLS
 ```
 - [x] login com facebook.
 - [ ] cadastro do cliente 
+
+
+Propriedade | Descrição
+----------- | ---------
+name | Para informar o nome do usuario
+size | Para definir o tamanho do campo
+background | Cord de fundo
