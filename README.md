@@ -8,7 +8,7 @@ trabalhando com **Branches**
 
 **Logo do Git** ![alt text](image.png)
 
-**URL Do gitHUB [GitHub](https://github.com/)
+**URL Do gitHUB** [GitHub](https://github.com/)
 
 
 ## Modulos
@@ -21,3 +21,7 @@ trabalhando com **Branches**
 <li> lista nao ordenada
 <li> lista nao ordenada
 <li> lista nao ordenada
+
+>Este é um blockquote, usado para destacar uma área.
+>
+>Segunda area destacada
