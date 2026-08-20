@@ -39,4 +39,4 @@ Propriedade | Descrição
 ----------- | ---------
 name | Para informar o nome do usuario
 size | Para definir o tamanho do campo
-background | Cord de fundo
+background | Cor de fundo
