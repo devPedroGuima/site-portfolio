@@ -31,3 +31,5 @@ trabalhando com **Branches**
 ```
 CLS
 ```
+- [x] login com facebook.
+- [ ] cadastro do cliente 
