@@ -13,6 +13,8 @@ trabalhando com **Branches**
 
 ## Modulos
 1. Começando com o Git
+    1. o que é git
+    2. instalando git na maquina
 2. Aprendendo sobre Branches
 3. Git Avançado
 
